@@ -1,9 +1,5 @@
 ## Hi there 👋
-
-<!--
-**AravPatil000/AravPatil000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+   I am Arav.
 
 - 🔭 I’m currently studying at IIT Gandhinagar
 - 🌱 I’m currently learning Semiconductor Fabrication and Manufacturing 
